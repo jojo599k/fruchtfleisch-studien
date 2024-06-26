@@ -14,9 +14,9 @@ ogImage:
 
 Die Textur von Fruchtsäften ist ein entscheidender Faktor für das Genusserlebnis. In einer detaillierten Untersuchung wurde festgestellt, dass kleinere Fruchtfleischpartikel eine samtigere Textur bieten, während größere Stücke für mehr Struktur und ein intensiveres Mundgefühl sorgen. Hier sind einige der wichtigsten Erkenntnisse:
 
-    Kleine Partikel (<1 mm): Glatte Textur, geeignet für Säfte, die ein seidiges Mundgefühl bieten sollen.
-    Mittlere Partikel (1-3 mm): Balance zwischen glatter Textur und wahrnehmbarer Fruchtfleischstruktur, ideal für ein reichhaltiges Geschmackserlebnis.
-    Große Partikel (>3 mm): Robust und strukturiert, für diejenigen, die ein kräftiges Mundgefühl bevorzugen.
+- **Kleine Partikel (<1 mm)**: Glatte Textur, geeignet für Säfte, die ein seidiges Mundgefühl bieten sollen.
+- **Mittlere Partikel (1-3 mm)**: Balance zwischen glatter Textur und wahrnehmbarer Fruchtfleischstruktur, ideal für ein reichhaltiges Geschmackserlebnis.
+- **Große Partikel (>3 mm)**: Robust und strukturiert, für diejenigen, die ein kräftiges Mundgefühl bevorzugen.
 
 ## Geschmack und Aroma
 
