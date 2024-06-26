@@ -1,13 +1,13 @@
 ---
 title: "Detaillierte Analysen"
 excerpt: ""
-coverImage: "/assets/blog/analyse.jpg"
+coverImage: "/assets/blog/analyse.jpeg"
 date: "2020-03-19T05:35:07.322Z"
 author:
   name: "Rosa Wolke"
-  picture: "/assets/blog/authors/rw.jpg"
+  picture: "/assets/blog/authors/rw.jpeg"
 ogImage:
-  url: "/assets/blog/analyse.jpg"
+  url: "/assets/blog/analyse.jpeg"
 ---
 
 ## Textur und Mundgefühl

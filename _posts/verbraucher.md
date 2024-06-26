@@ -1,13 +1,13 @@
 ---
 title: "Verbraucherpräferenzen"
 excerpt: "Diese Studie befragte Konsumenten nach ihren Vorlieben bezüglich der Fruchtfleischgröße in Fruchtsäften. Die Mehrheit der Befragten bevorzugte eine moderate Menge und Größe von Fruchtfleisch, was auf ein ausgewogenes Trink- und Geschmackserlebnis hinweist."
-coverImage: "/assets/blog/consumer.jpg"
+coverImage: "/assets/blog/consumer.jpeg"
 date: "2020-03-18T05:35:07.322Z"
 author:
   name: "Paul Lahner"
-  picture: "/assets/blog/authors/pl.jpg"
+  picture: "/assets/blog/authors/pl.jpeg"
 ogImage:
-  url: "/assets/blog/consumer.jpg"
+  url: "/assets/blog/consumer.jpeg"
 ---
 
 **Studie**: Präferenzen der Konsumenten hinsichtlich der Fruchtfleischgröße in Fruchtsäften

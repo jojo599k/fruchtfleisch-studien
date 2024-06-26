@@ -1,13 +1,13 @@
 ---
 title: "Textur und Mundgefühl"
 excerpt: "Diese Studie untersuchte, wie verschiedene Größen von Fruchtfleischpartikeln das Mundgefühl von Fruchtsäften beeinflussen. Es wurde festgestellt, dass kleinere Partikel eine glattere Textur erzeugen, während größere Partikel ein kräftigeres Mundgefühl vermitteln."
-coverImage: "/assets/blog/texture.jpg"
+coverImage: "/assets/blog/texture.jpeg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: "Rainer Zufall"
-  picture: "/assets/blog/authors/rz.jpg"
+  picture: "/assets/blog/authors/rz.jpeg"
 ogImage:
-  url: "/assets/blog/texture.jpg"
+  url: "/assets/blog/texture.jpeg"
 ---
 
 **Studie**: Die Rolle der Fruchtfleischgröße im Mundgefühl von Fruchtsäften
